@@ -5,6 +5,7 @@ html{
 
 body{
     background-color: inherit;
+    overflow: hidden;
 }
 
 .full-width{
